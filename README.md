@@ -12,3 +12,5 @@ EWB has discoverd that by doing this locally rather than sending the films to a 
 
 An EWB Austin member, Anjan Contractor, led the creation of an initial prototype.  However, it is fragile and undocumented.
 This project intends to build a robust, cheap, easy-to-make, easy-to-use, well-documented extension of this prototype.
+
+![incubatordiagram](https://cloud.githubusercontent.com/assets/5296671/9851514/a24c005c-5abe-11e5-8877-42f4bad16fff.png)
