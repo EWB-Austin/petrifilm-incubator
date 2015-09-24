@@ -21,4 +21,7 @@ This project intends to build a robust, cheap, easy-to-make, easy-to-use, well-d
 [Compact Incubator](http://nelsonjameson.com/Compact-Incubator-p1298.html)  This is $94. We are trying to determine if this can be used with a 12 Volt battery. We may buy one for experimentation.
 </p>
 
-[Bigger Incubators](http://www.darwinchambers.com/Portable-Incubators.html)  These don't have a proces listed.
+<p>
+[Bigger Incubators](http://www.darwinchambers.com/Portable-Incubators.html)  These don't have prices listed.
+</p>
+
