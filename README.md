@@ -14,3 +14,11 @@ An EWB Austin member, Anjan Contractor, led the creation of an initial prototype
 This project intends to build a robust, cheap, easy-to-make, easy-to-use, well-documented extension of this prototype.
 
 ![incubatordiagram](https://cloud.githubusercontent.com/assets/5296671/9851514/a24c005c-5abe-11e5-8877-42f4bad16fff.png)
+
+## Commercial Solutions
+
+<p> Eric found the following potential commercial solutions:
+[Compact Incubator](http://nelsonjameson.com/Compact-Incubator-p1298.html)  This is $94. We are trying to determine if this can be used with a 12 Volt battery. We may buy one for experimentation.
+</p>
+
+[Bigger Incubators](http://www.darwinchambers.com/Portable-Incubators.html)  These don't have a proces listed.
