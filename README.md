@@ -25,3 +25,14 @@ This project intends to build a robust, cheap, easy-to-make, easy-to-use, well-d
 [Bigger Incubators](http://www.darwinchambers.com/Portable-Incubators.html)  These don't have prices listed.
 </p>
 
+## Notes from November 14th
+
+After purchasing Compact Incubator mentioned above, we find it completely inadequate to our purposes.
+
+We have, however, made signifcant progress in the design of an improved system.
+
+Our basic approach was to purchase a smaller cooler: [http://www.amazon.com/gp/product/B000IBWI42?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00](http://www.amazon.com/gp/product/B000IBWI42?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00)
+and place our Arduino-based system inside it, with the battery on the outside.
+
+
+
