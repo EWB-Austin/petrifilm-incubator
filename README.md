@@ -34,5 +34,5 @@ We have, however, made signifcant progress in the design of an improved system.
 Our basic approach was to purchase a smaller cooler: [http://www.amazon.com/gp/product/B000IBWI42?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00](http://www.amazon.com/gp/product/B000IBWI42?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00)
 and place our Arduino-based system inside it, with the battery on the outside.
 
-
+![Image of Yaktocat](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/Petrifilm%20Incubator%20Design.png)
 
