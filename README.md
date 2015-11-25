@@ -62,3 +62,10 @@ Page 2 of this lab manual has a much better explanation.
 10. I was very wrong about the lack of people using Petrifilm for water testing in developed countries. Another advocate of using Petrifilm, among some other techniques:
 https://aguainroatan.wordpress.com/2015/07/31/water-testing-in-a-development-context/
 
+
+Note: here is a different attempt to create that:
+
+http://www.ewb-usa.org/files/2015/05/PortableIncubator.pdf
+
+
+
