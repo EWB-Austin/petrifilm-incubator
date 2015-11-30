@@ -67,5 +67,7 @@ Note: here is a different attempt to create that:
 
 http://www.ewb-usa.org/files/2015/05/PortableIncubator.pdf
 
+# Packaging Notes
 
+I now believe it might be both possible and a good idea for us to package the temperature stand into an enclosure that contains the Arduino and the LCD shield.  This would allow the wires to be far better contained and the whole system to be neater. This will really make a big difference in the ruggedness. However, I want to get the EEPROM stuff improved so that we can test the timing.
 
