@@ -6,3 +6,10 @@ Here a number of loose enhancement ideas:
 * Keep the batteries outside.
 * Use and LCD shield to provide better status.
 * Provide an audio and visual alarm when the temperature is out of spec for too long.
+* 
+
+# Idea: Build the thing into the cap of a thermos bottle.
+
+# Idea: Make it something that essentiall "wraps around" a battery pack.
+
+
