@@ -13,3 +13,10 @@ Here a number of loose enhancement ideas:
 # Idea: Make it something that essentiall "wraps around" a battery pack.
 
 
+# Note: I have now created a printed circuit board for this purpose.
+
+I have not yet tested it. It is shared at OSH Park as "Petrifilm Incubator Board" under this profile: https://oshpark.com/profiles/RobertLRead .
+
+# Idea: Make an Arduino Shield Incubator.
+
+This would be a little weird.  We could technically make a Shield for an Arduino. This coult possibly have a projection on a PCB to hold the petrifilms.  Above it we could place our LCD shield. The result would be a very small and elegant system for what we are doing.  We would have to provide insulation in some other manner.
