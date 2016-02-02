@@ -71,3 +71,11 @@ http://www.ewb-usa.org/files/2015/05/PortableIncubator.pdf
 
 I now believe it might be both possible and a good idea for us to package the temperature stand into an enclosure that contains the Arduino and the LCD shield.  This would allow the wires to be far better contained and the whole system to be neater. This will really make a big difference in the ruggedness. However, I want to get the EEPROM stuff improved so that we can test the timing.
 
+# Update as of 12/30/2015
+
+I've posted the results of an overnight experiment, in which we used the new EEPROM logging code to record the temperature vs time:
+https://github.com/EWB-Austin/petrifilm-incubator/blob/master/TemperatureVsTime1.csv
+
+In summary, it took a long time to warm up, and the battery died after 13 hours.  We really want to stay at 37C for 12 hours on one battery charge, so I consider this a partially successful experiment.
+
+
