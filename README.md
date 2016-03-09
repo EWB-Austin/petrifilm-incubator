@@ -78,4 +78,21 @@ https://github.com/EWB-Austin/petrifilm-incubator/blob/master/TemperatureVsTime1
 
 In summary, it took a long time to warm up, and the battery died after 13 hours.  We really want to stay at 37C for 12 hours on one battery charge, so I consider this a partially successful experiment.
 
+## The Second Prototype
+
+This is our second prototype, based on an Arduino and an LCD shield.  It has now been potentially obsoleted by the third prototype (described below):
+
+![dsc_0597](https://cloud.githubusercontent.com/assets/5296671/13639954/ac2b03d4-e5d8-11e5-8df0-c852a07695bb.jpg)
+
+# Update as of 3/9/2016
+
+Thanks largely due to the work of Evan Bartilson, we now have a third prototpye, which has currently demonstrated a battery life of 35 hours, and which we expect to acheive our goal of 48 hours.
+
+Below are some photos of our team working and the current incubator.
+
+![dsc_0603](https://cloud.githubusercontent.com/assets/5296671/13639945/a0db95ac-e5d8-11e5-8160-d91fef5d147e.jpg)
+![dsc_0601](https://cloud.githubusercontent.com/assets/5296671/13639947/a2bc97e0-e5d8-11e5-92d1-4ff7614ec616.jpg)
+![dsc_0595](https://cloud.githubusercontent.com/assets/5296671/13639949/a6aaad10-e5d8-11e5-8eeb-9636c5153b34.jpg)
+
+
 
