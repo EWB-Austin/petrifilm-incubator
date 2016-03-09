@@ -94,5 +94,18 @@ Below are some photos of our team working and the current incubator.
 ![dsc_0601](https://cloud.githubusercontent.com/assets/5296671/13639947/a2bc97e0-e5d8-11e5-92d1-4ff7614ec616.jpg)
 ![dsc_0595](https://cloud.githubusercontent.com/assets/5296671/13639949/a6aaad10-e5d8-11e5-8eeb-9636c5153b34.jpg)
 
+# Our submission to the Rice NEWT Challenge
+
+We have applied to the [Rice University NEWT Global Water Technology Challenge](http://ricenewt.rice.edu/competition/). We have made a short video, which we will post on April 15th after the competition.  Here is the Abstract we submitted:
+
+## Abstract: Engineers Without Borders (EWB-USA), Austin, Petrifilm Incubator 
+
+Providing potable water to the world requires an ability to tell when water is potable. Our experience has been that to be effective, the means of measuring bacteria and explaining it to people in the developing world must be visible, understandable, quantitative enough to support meaningful comparisons, cheap, and be done completely in the field far away from electrical power grids. Petrifilms(™) provided by 3M corporation are a standard way of accomplishing this. They must be incubated at approximately 37C for 48 hours.  This is traditionally done in the field by keeping the films in plastic bags against the skin of engineers in the field. This is uncomfortable, may not provide the correct temperature, and the films are meant to be kept flat and horizontal during incubation.
+
+In US laboratories, commercial incubators cost hundreds or thousands of dollars. These require 110V power. We are building a portable, battery powered incubator that is rugged and reliable enough to use in the third world. This will allows trustworthy in-the-field analysis and comparison of water sources. Because the analysis is done completely locally and results in visible, comparable films, local people will appreciate and trust the result. Although in the US the growth of a single colony is considered a sign of danger, many of the communities that Engineers Without Borders works with cannot afford this level of quality and must have a quantitative tool that lets them compare water sources and water improvements solutions.
+
+Our first prototype used an Arduino microcontroller in a hand-insulated box. Battery life was 18 hours. The operator changed the batteries before they ran out. This was shown to be effective in a remote community in Peru. However, it was fragile. In a second trip a wire broke and could not be repaired by our staff in the field, highlighting to us the importance of documentation and training.
+
+Our second prototype is completely open-source, described at [GitHub: ](https://github.com/EWB-Austin/petrifilm-incubator). This prototype has developed into a third prototype which has held temperature at 37C for 35 hours. We have hopes of extending battery life to 48 hours with small improvements to this basic design. Our overriding goal is to produce a set of open-source instructions that allows anyone in the world to construct and reliably use the portable petrifilm incubator with modest skill and readily available tools at a total cost of $200.
 
 
