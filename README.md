@@ -1,7 +1,7 @@
 # petrifilm-incubator
 A low-cost, portable Petrifilm(TM) Incubator for doing in-country bacterial analysis of water quality for EWB.
 
-Watch a 3-minute introductory [video](https://www.youtube.com/embed/BJAutiuryd4)!
+Watch a 3-minute introductory [video](https://youtu.be/oRjXajOAyl0)!
 
 
 ## Problem
