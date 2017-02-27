@@ -1,6 +1,6 @@
 # The Armadillo v1.0, a Low-cost, Portable, Petrifilm Incubator
 
-The Armadillo v1.0 is a low-cost, portable Petrifilm(TM) Incubator for doing in-country bacterial analysis of water quality for Engineers Without Borders.
+The Armadillo v1.0 is a low-cost, portable Petrifilm(TM) Incubator for doing in-country bacterial analysis of water quality for Engineers Without Borders invented and engineered by the Instrumentation Group of [Great Austin Chapter](https://ewbgreateraustin.org/) of [EWB-USA](http://www.ewb-usa.org/).
 
 Watch a 3-minute introductory [video](https://www.youtube.com/watch?v=0SzoYT8wLo0)!
 
@@ -33,7 +33,14 @@ We need someone to build an Armadillo!  Although we hope our published materials
 we are happy to provide personal assistance and help in building your own Armadillo. We want to make
 sure that our instruction materials are high-quality.
 
-# Older Documents
+Please email: <a href="mailto: instrumentationmembers@ewbgreateraustin.org"> instrumentationmembers@ewbgreateraustin.org</a>  or visit our [chapter website](https://ewbgreateraustin.org/) to contact us.
+
+## Older Documents
 
 Our older README is [archived](https://github.com/EWB-Austin/petrifilm-incubator/2016-README.md).
+
+## Contact
+
+[Great Austin Chapter](https://ewbgreateraustin.org/) of [EWB-USA](http://www.ewb-usa.org/).
+<a href="mailto: instrumentationmembers@ewbgreateraustin.org"> instrumentationmembers@ewbgreateraustin.org</a>
 
