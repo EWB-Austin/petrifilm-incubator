@@ -16,7 +16,7 @@ We have a press release in progress which is not yet published.
 Our [instructable](http://www.instructables.com/id/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/)
 gives step-by-step instructions for the construction of the Armadillo for about $160.
 
-For those who prefer printable and sharable PDF, we have prepared a [construction manual](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/ConstructionManual.docx).
+For those who prefer printable and sharable PDF, we have prepared a [construction manual](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/ConstructionManual.pdf).
 
 Because the use of the Armadillo requires inoculating Petrifilms, we have prepared an
 [inoculation manual](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/PetrifilmInoculation.pdf).
