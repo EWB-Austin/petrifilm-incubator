@@ -4,6 +4,9 @@ The Armadillo v1.0 is a low-cost, portable Petrifilm(TM) Incubator for doing in-
 
 Watch a 3-minute introductory [video](https://www.youtube.com/watch?v=0SzoYT8wLo0)!
 
+The Armadillo won [1st place](https://ewbgreateraustin.org/2016/11/01/test/) in in the 2016 SCSE Regional Conference in Atlanta poster session contest.
+As we like to say, "we beat NASA", with our ![poster]((https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/EWBconferenceposterIncubator_handout_comp.pdf).
+
 ## Start Here: Documentation
 
 We have a press release in progress which is not yet published.
@@ -11,10 +14,10 @@ We have a press release in progress which is not yet published.
 Our [instructable](http://www.instructables.com/id/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/)
 gives step-by-step instructions for the construction of the Armadillo for about $160.
 
-For those who prefer printable and sharable PDF, we have prepared a [construction manual](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/ConstructionManual.docx).
+For those who prefer printable and sharable PDF, we have prepared a [construction manual](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/ConstructionManual.docx).
 
 Because the use of the Armadillo requires inoculating Petrifilms, we have prepared an
-[inoculation manual](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/PetrifilmInoculation.pdf).
+[inoculation manual](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/PetrifilmInoculation.pdf).
 
 In the [experiments](https://github.com/EWB-Austin/petrifilm-incubator/tree/master/experiments) directory
 you will find data from our battery-lifetime experiments.
