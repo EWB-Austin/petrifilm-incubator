@@ -7,7 +7,7 @@ Watch a 3-minute introductory [video](https://www.youtube.com/watch?v=0SzoYT8wLo
 The Armadillo won [1st place](https://ewbgreateraustin.org/2016/11/01/test/) in in the 2016 SCSE Regional Conference in Atlanta poster session contest.
 As we like to say, "we beat NASA", with our [poster](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/EWBconferenceposterIncubator_handout_comp.pdf):
 
-![poster](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/EWBconferenceposterIncubator_handout_comp.pdf).
+![poster](https://github.com/EWB-Austin/petrifilm-incubator/blob/master/doc/EWBconferenceposterIncubator_handout_comp.png).
 
 ## Start Here: Documentation
 
